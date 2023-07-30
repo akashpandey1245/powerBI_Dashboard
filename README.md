@@ -1,4 +1,4 @@
-# powerBI_Dashboard
+# MadhavSales_powerBI_Dashboard
 Hello Reader, 
 This is my repository over Github containing a Project on Sales Data (Madhav E-Commerce) an online store using PowerBI and Excel to analyze different Data:
 1> State wise Order data
